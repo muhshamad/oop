@@ -1,6 +1,10 @@
 
 import java.util.Date;
-
+/*
+ * NIM: 13.7741
+ * Nama: Muh. Shamad
+ * Kelas: 2KS2
+ */
 public class Utama {
 
     public static void main(String[] args) {
